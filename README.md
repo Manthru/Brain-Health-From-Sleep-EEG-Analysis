@@ -8,7 +8,8 @@ Sleep EEG contains rich neurophysiological signals — spindle activity, delta p
 
 # 🔬 Complete Pipeline
 
-<img src=""C:\Users\manth\Downloads\sleep_eeg_pipeline_flowchart.png"">
+<img width="1500" height="2500" alt="sleep_eeg_pipeline_flowchart" src="https://github.com/user-attachments/assets/fa489d8a-f21e-45ed-9baf-5327c5fa5abd" />
+
 
 # 👤 Author
 
